@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amit S
+- 👋 Hi, I’m Amit
 - 👀 I’m interested in building projects related to Banking & Finance using java fullstack technology...
 - 🌱 I’m currently learning java & EE
 - 💞️ I’m looking to collaborate on projects involving concepts of finance & Banking
